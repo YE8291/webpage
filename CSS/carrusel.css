@@ -31,15 +31,15 @@
 }
 
 #firstItem{
-    background-image: url(/img/banner.jpg);
+    background-image: url(../img/banner.jpg);
 }
 
 #secondItem{
-    background-image: url(/img/equipo.jpg);
+    background-image: url(../img/equipo.jpg);
 }
 
 #thirthItem{
-    background-image: url(/img/drivers.jpg);
+    background-image: url(../img/drivers.jpg);
 }
 
 @keyframes slide {

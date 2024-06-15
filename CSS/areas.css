@@ -14,24 +14,24 @@
 .container > .card:nth-child(1){
     grid-column: 1;
     grid-row: 1;
-    background: url(/img/programacion.jpg) no-repeat;
+    background: url(../img/programacion.jpg) no-repeat;
     background-size: cover;
 }
 
 .container > .card:nth-child(2){
     grid-column: 1;
     grid-row: 2;
-    background: url(/img/electronica.jpg) no-repeat center;
+    background: url(../img/electronica.jpg) no-repeat center;
     background-size: cover;
 }
 
 .container > .card:nth-child(3){
-    background: url(/img/construccion.jpg) no-repeat;
+    background: url(../img/construccion.jpg) no-repeat;
     background-size: cover;
 }
 
 .container > .card:nth-child(4){
-    background: url(/img/administracion.jpg) no-repeat center;
+    background: url(../img/administracion.jpg) no-repeat center;
     background-size: cover;
 }
 

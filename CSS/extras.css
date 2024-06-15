@@ -14,14 +14,14 @@
 .container > .card:nth-child(1){
     grid-column: 1;
     grid-row: 1;
-    background: url(/img/banner.jpg) no-repeat center;
+    background: url(../img/banner.jpg) no-repeat center;
     background-size: cover;
 }
 
 .container > .card:nth-child(2){
     grid-column: 1;
     grid-row: 2;
-    background: url(/img/equipo.jpg) no-repeat center;
+    background: url(../img/equipo.jpg) no-repeat center;
     background-size: cover;
 }
 
